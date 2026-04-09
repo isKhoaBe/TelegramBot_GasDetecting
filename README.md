@@ -1,4 +1,4 @@
-![set_warning](https://github.com/user-attachments/assets/cf7f0b35-19b9-46b3-9c35-6e1de6c87755)# Gas Detecting Telegram Bot
+# Gas Detecting Telegram Bot
 
 An ESP32-based smart gas detecting system that continuously monitors air quality using an MQ2 sensor. The system provides local visual/audio feedback through an LCD, LEDs, and a buzzer, and connects to WiFi to send real-time alerts and receive remote commands via a Telegram Bot.
 

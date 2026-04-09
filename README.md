@@ -1,4 +1,4 @@
-# Gas Detecting Telegram Bot
+![set_warning](https://github.com/user-attachments/assets/cf7f0b35-19b9-46b3-9c35-6e1de6c87755)# Gas Detecting Telegram Bot
 
 An ESP32-based smart gas detecting system that continuously monitors air quality using an MQ2 sensor. The system provides local visual/audio feedback through an LCD, LEDs, and a buzzer, and connects to WiFi to send real-time alerts and receive remote commands via a Telegram Bot.
 
@@ -53,32 +53,31 @@ src/ (and include/)
 
 ## Demo
 
-_(Add your project images or GIFs here)_
-
 ### 1. Safe State
 
-![Safe State Placeholder]()
+![safe](https://github.com/user-attachments/assets/0acab6e3-5247-4247-add8-12de3581b571)
 
 ### 2. Warning State
 
-![Warning State Placeholder]()
+![warning](https://github.com/user-attachments/assets/ed653840-3329-4768-9453-be823873354f)
 
 ### 3. Critical State
 
-![Critical State Placeholder]()
+![critical](https://github.com/user-attachments/assets/b3a7e81d-0c9d-41be-9997-49bcb0ec46cc)
 
 ### 4. Calibrate State
 
-![Calibrate State Placeholder]()
+![calibrate](https://github.com/user-attachments/assets/5c067943-8dc2-47ee-8495-6ab1f7535599)
 
 ### 5. Done Calibrate
 
-![Done Calibrate Placeholder]()
+![calibrate_done](https://github.com/user-attachments/assets/7d7e204e-214c-41ad-9edc-93cd093d1722)
 
 ### 6. Set Warning Threshold
 
-![Set Warning Threshold Placeholder]()
+![set_warning](https://github.com/user-attachments/assets/aa570301-bca7-4984-ad9b-b553489ffeb0)
 
 ### 7. Set Critical Threshold
 
-![Set Critical Threshold Placeholder]()
+![set_critical](https://github.com/user-attachments/assets/d5f93bf9-73c6-421a-875b-39489a66e285)
+
